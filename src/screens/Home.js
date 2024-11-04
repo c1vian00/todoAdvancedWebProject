@@ -49,7 +49,7 @@ function Home() {
 
   return (
     <div id='container'>
-      <h3>ToDos</h3>
+      <h2>Todos</h2>
 
       <form>
         <input 
