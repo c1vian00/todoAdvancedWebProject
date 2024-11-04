@@ -1,0 +1,21 @@
+#container {
+  margin: auto;
+  margin-top: 16px;
+  max-width: 500px;
+  padding: 16px;
+  border: solid 2px;
+  border-radius: 20px;
+  background-color: lightblue;
+}
+
+input {
+  border-radius: 5px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+.delete-button {
+  margin-left: 16px;
+}
